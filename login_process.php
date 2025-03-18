@@ -1,4 +1,4 @@
-<?php
+<?php //formation of login process
 session_start();
 include("db.php");
 $pagename = "Your Login Results"; // Set the page name
