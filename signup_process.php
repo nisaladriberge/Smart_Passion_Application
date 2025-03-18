@@ -1,4 +1,4 @@
-<?php
+<?php //formation of signup process
 session_start();
 include("db.php");
 
