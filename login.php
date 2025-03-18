@@ -1,4 +1,4 @@
-<?php
+<?php //Formation of login 
 session_start();
 $pagename = "Sign Up"; // Set the page name
 
