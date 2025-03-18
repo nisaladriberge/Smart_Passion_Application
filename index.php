@@ -1,4 +1,4 @@
-<?php
+<?php //index page 
 session_start();
 include ("db.php"); //include db.php file to connect to DB
 $pagename="Make passion smart"; //create and populate variable called $pagename

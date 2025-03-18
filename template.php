@@ -1,4 +1,4 @@
-<?php
+<?php //template page
 $pagename="template"; //Create and populate a variable called $pagename
 
 echo "<link rel=stylesheet type=text/css href=mystylesheet.css>"; //Call in stylesheet
