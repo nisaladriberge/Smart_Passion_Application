@@ -1,4 +1,4 @@
-<?php
+<?php  //Formation of the basket 
 session_start(); // Start the session
 include("db.php"); // Connect to database
 $pagename = "Smart Basket"; // Create and populate a variable called $pagename
