@@ -1,4 +1,4 @@
-<?php
+<?php //formation of logout
 session_start();
 $pagename = "logout"; // Create and populate a variable called $pagename
 
