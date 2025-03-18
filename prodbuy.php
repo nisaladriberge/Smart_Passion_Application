@@ -46,7 +46,7 @@ if (isset($_GET['u_prod_id'])) {
         echo "</tr>";
         echo "</table>";
 
-         // Quantity drop-down menu
+         // Quantity drop-down menu to purchased products
          echo "<br><p>Number to be purchased: ";
          echo "<form action='basket.php' method='post'>";
          echo "<select name='p_quantity'>";
