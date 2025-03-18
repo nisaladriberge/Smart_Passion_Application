@@ -1,6 +1,6 @@
 <?php
 session_start();
-$pagename="homteq: cloud controlled tech for your home"; //Create and populate a variable called $pagename
+$pagename="make passion smart"; //Create and populate a variable called $pagename
 
 echo "<link rel=stylesheet type=text/css href=mystylesheet.css>"; //Call in stylesheet
 echo "<title>".$pagename."</title>"; //display name of the page as window title
