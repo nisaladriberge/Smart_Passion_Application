@@ -1,4 +1,4 @@
-<?php
+<?php // formation of the clearbasket
 session_start(); // Start the session
 include("db.php"); // Include db.php file to connect to DB
 $pagename = "Clear Smart Basket"; // Create and populate a variable called $pagename
